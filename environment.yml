@@ -1,0 +1,10 @@
+name: python 3.19.12
+dependencies:
+  - python=3.9.12
+  - numpy
+  - pandas
+  - matplotlib
+  - ipywidgets=7.7.2
+  - plotly==5.10.0
+  - seaborn
+  
